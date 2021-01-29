@@ -6,5 +6,8 @@ public class Main {
     // App.launch(App.class, args);
     System.out.println("hello");
     System.out.println("Bao Huynh");
+    System.out.println("Ryan Wheeler");
+    System.out.println("Jared Poulos");
+    System.out.println("Selina Spry");
   }
 }
